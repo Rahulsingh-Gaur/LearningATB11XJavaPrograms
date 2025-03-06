@@ -6,5 +6,6 @@ public class HelloWorld
         System.out.println("Hello World");
         System.out.println("Jai Shree Ganesh");
         System.out.println("Ganpati bappa morya");
+        System.out.println("JAi shree ram");
     }
 }
