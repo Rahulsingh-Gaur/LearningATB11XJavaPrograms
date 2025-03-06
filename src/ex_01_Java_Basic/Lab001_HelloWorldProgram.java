@@ -5,5 +5,6 @@ public class Lab001_HelloWorldProgram {
 
         System.out.println("Hello World");
         System.out.println("Hello ANU");
+        System.out.println("Hello Rahul");
     }
 }
