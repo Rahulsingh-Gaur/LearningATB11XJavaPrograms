@@ -8,6 +8,14 @@ public class _java {
         System.out.print("hajari one");*/
 
         System.out.println("Rajput");
+        System.out.println("Mul is  ->" + 5*2);
+        System.out.print("Subtraction is  -> ");
+        System.out.println(100-1);
+        System.out.print("Addition is -> ");
+        System.out.println( 2+2);
+        System.out.print("Div is  ->");
+        System.out.println(2/2);
+
 
     }
 
