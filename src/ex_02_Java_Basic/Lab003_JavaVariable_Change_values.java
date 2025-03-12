@@ -1,6 +1,6 @@
 package ex_02_Java_Basic;
 
-public class Lab001_JavaVariable_Change_values {
+public class Lab003_JavaVariable_Change_values {
     public static void main(String[] args) {
         int  abc = 10;
         //- Store the value (which can be changed in the program).

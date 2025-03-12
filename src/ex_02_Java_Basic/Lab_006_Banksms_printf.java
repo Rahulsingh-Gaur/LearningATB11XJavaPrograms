@@ -1,6 +1,6 @@
 package ex_02_Java_Basic;
 
-public class Lab_005_Banksms_printf {
+public class Lab_006_Banksms_printf {
     public static void main(String[] args) {
         String  Name = "Rahulsingh Gaur";
         String  Bank= "SBI BANK !";

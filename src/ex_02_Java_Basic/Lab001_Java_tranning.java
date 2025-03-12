@@ -1,6 +1,6 @@
 package ex_02_Java_Basic;
 
-public class _java {
+public class Lab001_Java_tranning {
     public static void main(String[] args) {
         System.out.println("hello");
 //        System.out.println("Rahl");

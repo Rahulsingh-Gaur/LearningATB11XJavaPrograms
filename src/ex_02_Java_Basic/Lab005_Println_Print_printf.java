@@ -1,6 +1,6 @@
 package ex_02_Java_Basic;
 
-public class Lab003_Println_Print_printf {
+public class Lab005_Println_Print_printf {
     public static void main(String[] args) {
         String Name ="Rahulsingh Gaur";
         long  Mob_no =89878891l;
