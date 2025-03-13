@@ -1,6 +1,6 @@
 package ex_05_Ternary_operator;
 
-public class Lab022_Grade_calc_passing_input {
+public class Lab022_Grade_calc_ParseInt {
     public static void main(String[] args) {
         String FinalResult =args[0];
         int Marks = Integer.parseInt(FinalResult);
