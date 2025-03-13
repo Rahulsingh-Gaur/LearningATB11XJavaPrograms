@@ -1,4 +1,4 @@
-package ex_03_Java_Basic;
+package ex_03_Java_Basic_variable_Operator;
 
 public class Lab007_Math_Opeartion {
     public static void main(String[] args) {

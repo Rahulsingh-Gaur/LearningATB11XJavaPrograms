@@ -1,4 +1,4 @@
-package ex_02_Java_Basic;
+package ex_02_Java_Basic_2;
 
 public class Lab004_Print_Nine_Table {
     public static void main(String[] args) {

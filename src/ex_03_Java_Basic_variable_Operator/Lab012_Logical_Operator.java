@@ -1,4 +1,4 @@
-package ex_03_Java_Basic;
+package ex_03_Java_Basic_variable_Operator;
 
 public class Lab012_Logical_Operator {
     public static void main(String[] args) {
