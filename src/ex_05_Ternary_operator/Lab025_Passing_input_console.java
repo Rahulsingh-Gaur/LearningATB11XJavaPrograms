@@ -12,6 +12,6 @@ public class Lab025_Passing_input_console {
         System.out.println("Enter the value for C");
         int c= scanner1.nextInt();
         System.out.println("Total Sum is " +(a+b+c));
-1    }
+  }
 
 }
