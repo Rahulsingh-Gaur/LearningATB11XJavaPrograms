@@ -1,6 +1,6 @@
-package ex_02_Java_Basic_2;
+package JAVA_11X_Task;
 
-public class Lab004_Print_Nine_Table {
+public class Lab001_Print_Nine_Table_Task {
     public static void main(String[] args) {
 //        System.out.println(9*1);
 //        System.out.println(9*2);

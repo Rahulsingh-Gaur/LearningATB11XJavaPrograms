@@ -1,6 +1,6 @@
 package ex_05_Ternary_operator;
 import java.util.Scanner;
-public class Lab026_Turnary_demo {
+public class Lab026_Turnary_movieticket {
     public static void main(String[] args) {
         Scanner scanner1 =new Scanner(System.in);
 
