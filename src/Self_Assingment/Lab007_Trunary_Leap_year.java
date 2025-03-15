@@ -1,9 +1,8 @@
 package Self_Assingment;
 
-import java.awt.*;
 import java.util.Scanner;
 
-public class Lab007_If_else_Temp_convvert {
+public class Lab007_Trunary_Leap_year {
     public static void main(String[] args) {
 
         Scanner scanner =new Scanner(System.in);
