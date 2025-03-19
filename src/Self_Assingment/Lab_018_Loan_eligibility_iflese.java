@@ -1,6 +1,5 @@
 package Self_Assingment;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class Lab_018_Loan_eligibility_iflese {
