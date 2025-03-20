@@ -25,27 +25,14 @@ public class Lab010_Fibonacci_Seq {
 
     }}
 
-//The **Fibonacci Sequence** is a series of numbers where each number is the sum of the two preceding ones, starting from **0 and 1**.
+//Calculation:
 //
-//### Formula:
-// F(n)=F(n−1)+F(n−2)
+//    Each Fibonacci number is calculated explicitly by adding the two preceding numbers.
 //
-//where:
+//    For example:
 //
-//- F(0)=0
-//- F(1)=1
-//### Example of the Sequence:
-// 0,1,1,2,3,5,8,13,21,34,55,89,…
+//        fib2 = fib0 + fib1
 //
-//Each number is found by adding the **previous two numbers** in the sequence:
+//        fib3 = fib1 + fib2
 //
-//- 0+1=1
-//- 1+1=2
-//- 1+2=3
-//- 2+3=5
-//- 3+5=8
-//- and so on...
-//### Applications:
-//- Used in **mathematics** and **computer algorithms** (recursion & dynamic programming).
-//- Appears in **nature**, such as the arrangement of leaves, flowers, and shells (Golden Ratio).
-//- Used in **finance** and **stock market predictions**.
+//        And so on, up to fib9
