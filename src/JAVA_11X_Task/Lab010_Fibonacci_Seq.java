@@ -8,23 +8,22 @@ public class Lab010_Fibonacci_Seq {
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter the number to check the Fibonacci Sequence!");
 
-        int Fibo =scanner.nextInt();
-        int Result=0;
-        for (int i=0;i<=Fibo;i++){
+        int Num1=scanner.nextInt();
+        System.out.println("Fibonacci Sequence is as follows");
+        int Fib1=0;
+        int Fib2=1;
+        System.out.println(Fib1);
+        System.out.println(Fib2);
+        for(int i=2;i<=Num1;i++){
+            int sum =Fib1+Fib2;
+            System.out.println(sum);
 
-            Result =Result+i;
-            System.out.println(Result);
+            Fib1=Fib2;
+            Fib2=sum;
         }
 
-//        this is done By Using hard coded values ie.10
-//        int Fibo_Result =0;
-////        for (int i=0;i<=10;i++){
-////            Fibo_Result=Fibo_Result+i;
-////            System.out.println(Fibo_Result);
-        }
 
-
-    }
+    }}
 
 //The **Fibonacci Sequence** is a series of numbers where each number is the sum of the two preceding ones, starting from **0 and 1**.
 //
