@@ -9,7 +9,7 @@ public class Lab021_Switch_calc {
         System.out.println("Enter the Number 1");
         int Num1 =scanner.nextInt();
 
-        System.out.println("Enter the Number 2");
+        System.out.println("Enter the Numberr 2");
         int Num2 =scanner.nextInt();
 
         System.out.println("Enter the Operator like +,-,/,*");
@@ -27,7 +27,7 @@ public class Lab021_Switch_calc {
 
 
     }
-
+//this is file
 //Create a simple calculator that can perform basic arithmetic operations
 // (addition, subtraction, multiplication, division) based on user input.
 // The user should enter two numbers and an operator (+, -, *, /),
