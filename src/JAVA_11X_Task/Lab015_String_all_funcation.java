@@ -75,6 +75,8 @@ public class Lab015_String_all_funcation {
         System.out.println("Compare the String int:" + Lname.compareTo("hajari"));
 
        //string
+        //string
+
 
 
 
