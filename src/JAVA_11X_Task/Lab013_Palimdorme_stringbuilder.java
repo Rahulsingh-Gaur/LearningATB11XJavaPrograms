@@ -1,9 +1,8 @@
 package JAVA_11X_Task;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Lab013_Palimdorme {
+public class Lab013_Palimdorme_stringbuilder {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the name !!!");
