@@ -6,6 +6,7 @@ public class Lab013_Palimdorme_stringbuilder {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the name !!!");
+
         String name = scanner.nextLine();
         int Length =name.length();
         String Rev = new StringBuilder(name).reverse().toString();

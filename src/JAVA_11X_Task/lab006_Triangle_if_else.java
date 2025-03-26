@@ -13,7 +13,16 @@ public class lab006_Triangle_if_else {
         System.out.println("Enter the Length of third side of Triangle");
         int L3 = scanner.nextInt();
 
-        if (L1==L2 && L1==L3 && L2==L3)
+        if (L1==0 &&L2==0 &&L3==0){
+            System.out.println("This is not a Triangle");
+            System.exit(0);
+        }
+
+        if(L1+L2<=L3 || L1+L3<=L2 || L2+L3<=L1){
+            System.out.println("THis is not Triangle");
+            System.exit(0);
+        }
+        if (L1==L2  && L2==L3)
         {
             System.out.println("The Triangle is equilateral");
         } else if (L1==L2 || L1==L3 || L2==L3) {

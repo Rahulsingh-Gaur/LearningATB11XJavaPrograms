@@ -36,6 +36,9 @@ public class Lab015_String_all_funcation {
         //Index of
         System.out.println("The String index is :" + (Result1.indexOf('r'))); //RAHULGaur
 
+        //last index of
+        System.out.println("The last index of :" + (Fname.lastIndexOf("H")));
+
         //Contains
         System.out.println("String contains the :" + Fname.contains("Z"));
 
@@ -73,10 +76,6 @@ public class Lab015_String_all_funcation {
 
         //compare
         System.out.println("Compare the String int:" + Lname.compareTo("hajari"));
-
-       //string
-        //string
-
 
 
 
