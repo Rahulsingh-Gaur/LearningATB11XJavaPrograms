@@ -1,10 +1,6 @@
 package JAVA_11X_Task;
 
-import com.sun.source.tree.UsesTree;
-
-import javax.sound.midi.Soundbank;
-
-public class Lab010_Stringbuffer {
+public class Lab016_Stringbuffer {
     public static void main(String[] args) {
 
        // 1. Creating a StringBuffer
