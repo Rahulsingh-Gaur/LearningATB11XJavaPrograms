@@ -2,7 +2,7 @@ package JAVA_11X_Task;
 
 public class Lab019_2nd_largest_no_array {
     public static void main(String[] args) {
-        int [] number = {55,75,21,76,12,21,100,1,5,98,99};
+        int [] number = {100,55,75,21,76,12,21,101,1,5,98,99};
 
         int Max = number[0];
         int nextmax =number[0];
